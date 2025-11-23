@@ -25,7 +25,7 @@ Write a function that:
 
 ---
 
-## Solution (JavaScript)
+## Solution:
 
 ```javascript
 function validatePIN(pin) {
@@ -38,16 +38,6 @@ console.log(validatePIN("12345"));   // false
 console.log(validatePIN("a234"));    // false
 console.log(validatePIN("123456"));  // true
 ````
-
----
-
-### Notes
-
-* The regular expression `/^\d+$/` ensures the PIN contains **only digits**.
-* The length check `(pin.length === 4 || pin.length === 6)` ensures the PIN is **exactly 4 or 6 characters long**.
-
----
-
 ## Challenge Link
 
 [Regex validate PIN code — Codewars](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
