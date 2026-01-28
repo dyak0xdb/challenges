@@ -1,4 +1,4 @@
-# **sources:**
+# **resources:**
 
 <a href=https://x.com/>X</a>
 and
