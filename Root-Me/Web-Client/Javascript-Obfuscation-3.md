@@ -31,6 +31,4 @@ const plain = enc
   .join('');
 
 console.log(plain); // 786OsErtk12
-```
-بگو 🔥
-```
+``````
